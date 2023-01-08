@@ -1,15 +1,18 @@
-# Todo:
+# Todo
 
-# General
-- [ ] Setup NextJS13
+## General
+
+- [*] Setup NextJS13
 - [ ] Setup AuthJS
 - [ ] Remove env files with gitignore
 - [ ] Verbose Readme
 - [ ] Better name
 - [ ] Logo?
 - [ ] Code style
+
+## Features
+
 - [ ] Frontend style
-# Features
 - [ ] OAuth Login
 - [ ] Home page
 - [ ] User page
@@ -21,12 +24,16 @@
 - [ ] URL Blocklist
 - [ ] Custom shortlinks
 - [ ] Random shortlinks
-# Arch
+
+## Arch
+
 - [ ] Database - SQLite
-- [ ] NextJS Setup
+- [ ] NextJS Install
 - [ ] Tailwind CSS Setup
 - [ ] TypeScript Setup
-# Api Endpoints
+
+## Api Endpoints
+
 - [ ] User associated endpoints
 - [ ] Link associated endpoint
   - [ ] Creating with random
