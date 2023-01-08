@@ -2,11 +2,12 @@
 
 ## General
 
-- [*] Setup NextJS13
-- [ ] Setup AuthJS
+- [*] Install NextJS13
+- [ ] Install AuthJS
+- [ ] Install Tailwind CSS
 - [ ] Remove env files with gitignore
 - [ ] Verbose Readme
-- [ ] Better name
+- [*] Better name (Scrubly)
 - [ ] Logo?
 - [ ] Code style
 
@@ -28,7 +29,7 @@
 ## Arch
 
 - [ ] Database - SQLite
-- [ ] NextJS Install
+- [ ] NextJS Setup
 - [ ] Tailwind CSS Setup
 - [ ] TypeScript Setup
 
