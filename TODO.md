@@ -2,12 +2,12 @@
 
 ## General
 
-- [*] Install NextJS13
+- [x] Install NextJS13
 - [ ] Install AuthJS
 - [ ] Install Tailwind CSS
 - [ ] Remove env files with gitignore
 - [ ] Verbose Readme
-- [*] Better name (Scrubly)
+- [x] Better name (Scrubly)
 - [ ] Logo?
 - [ ] Code style
 
